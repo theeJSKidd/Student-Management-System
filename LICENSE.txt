@@ -1,0 +1,13 @@
+Creative Commons Attribution-NoDerivatives 4.0 International License
+
+Copyright (c) 2024 [Your Name or GitHub Username]
+
+This software is licensed under the CC BY-ND 4.0 license. You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Use — execute the code for learning or demonstration purposes
+
+Under the following terms:
+- **No Derivatives** — You may not modify, distribute modified versions, or create derivative works.
+- **Attribution** — You must give appropriate credit.
+
+Full license details: https://creativecommons.org/licenses/by-nd/4.0/
